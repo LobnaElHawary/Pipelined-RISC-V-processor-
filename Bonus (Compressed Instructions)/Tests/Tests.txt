@@ -1,0 +1,3 @@
+We chose to test the ANDI and ADD since they are in two different quadrants. 
+We checked that the PC increments by 2 instead and 4, and that the reg files
+are being updated. 
